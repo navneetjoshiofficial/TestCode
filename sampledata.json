@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "ExchangeName": "BF",
+    "CoinName": "BTCUSD"
+  },
+  {
+    "id": 2,
+    "ExchangeName": "BF",
+    "CoinName": "LTCUSD"
+  },
+  {
+    "id": 3,
+    "ExchangeName": "BF",
+    "CoinName": "LTCBTC"
+  },
+  {
+    "id": 4,
+    "ExchangeName": "BF",
+    "CoinName": "ETHUSD"
+  },
+  {"id":5,"ExchangeName":"BF","CoinName":"ETHBTC"},{"id":6,"ExchangeName":"BF","CoinName":"ETCBTC"},{"id":7,"ExchangeName":"BF","CoinName":"ETCUSD"},{"id":8,"ExchangeName":"BF","CoinName":"RRTUSD"},{"id":9,"ExchangeName":"BF","CoinName":"RRTBTC"},{"id":10,"ExchangeName":"BF","CoinName":"ZECUSD"},{"id":11,"ExchangeName":"BF","CoinName":"ZECBTC"},{"id":12,"ExchangeName":"BF","CoinName":"XMRUSD"},{"id":13,"ExchangeName":"BF","CoinName":"XMRBTC"},{"id":14,"ExchangeName":"BF","CoinName":"DSHUSD"},{"id":15,"ExchangeName":"BF","CoinName":"DSHBTC"},{"id":16,"ExchangeName":"BF","CoinName":"BCCBTC"},{"id":17,"ExchangeName":"BF","CoinName":"BCUBTC"},{"id":18,"ExchangeName":"BF","CoinName":"BCCUSD"},{"id":19,"ExchangeName":"BF","CoinName":"BCUUSD"},{"id":20,"ExchangeName":"BF","CoinName":"XRPUSD"},{"id":21,"ExchangeName":"BF","CoinName":"XRPBTC"},{"id":22,"ExchangeName":"BF","CoinName":"IOTUSD"},{"id":23,"ExchangeName":"BF","CoinName":"IOTBTC"},{"id":24,"ExchangeName":"BF","CoinName":"IOTETH"},{"id":25,"ExchangeName":"BF","CoinName":"EOSUSD"},{"id":26,"ExchangeName":"BF","CoinName":"EOSBTC"},{"id":27,"ExchangeName":"BF","CoinName":"EOSETH"},{"id":28,"ExchangeName":"BF","CoinName":"SANUSD"},{"id":29,"ExchangeName":"BF","CoinName":"SANBTC"},{"id":30,"ExchangeName":"BF","CoinName":"SANETH"},{"id":31,"ExchangeName":"BF","CoinName":"OMGUSD"},{"id":32,"ExchangeName":"BF","CoinName":"OMGBTC"},{"id":33,"ExchangeName":"BF","CoinName":"OMGETH"},{"id":34,"ExchangeName":"BF","CoinName":"BCHUSD"},{"id":35,"ExchangeName":"BF","CoinName":"BCHBTC"},{"id":36,"ExchangeName":"BF","CoinName":"BCHETH"},{"id":37,"ExchangeName":"BF","CoinName":"NEOUSD"},{"id":38,"ExchangeName":"BF","CoinName":"NEOBTC"},{"id":39,"ExchangeName":"BF","CoinName":"NEOETH"},{"id":40,"ExchangeName":"BF","CoinName":"ETPUSD"},{"id":41,"ExchangeName":"BF","CoinName":"ETPBTC"},{"id":42,"ExchangeName":"BF","CoinName":"ETPETH"},{"id":43,"ExchangeName":"BF","CoinName":"QTMUSD"},{"id":44,"ExchangeName":"BF","CoinName":"QTMBTC"},{"id":45,"ExchangeName":"BF","CoinName":"QTMETH"},{"id":46,"ExchangeName":"BF","CoinName":"BT1USD"},{"id":47,"ExchangeName":"BF","CoinName":"BT2USD"},{"id":48,"ExchangeName":"BF","CoinName":"BT1BTC"},{"id":49,"ExchangeName":"BF","CoinName":"BT2BTC"},{"id":50,"ExchangeName":"BF","CoinName":"AVTUSD"},{"id":51,"ExchangeName":"BF","CoinName":"AVTBTC"},{"id":52,"ExchangeName":"BF","CoinName":"AVTETH"},{"id":53,"ExchangeName":"BF","CoinName":"EDOUSD"},{"id":54,"ExchangeName":"BF","CoinName":"EDOBTC"},{"id":55,"ExchangeName":"BF","CoinName":"EDOETH"},{"id":56,"ExchangeName":"BF","CoinName":"BTGUSD"},{"id":57,"ExchangeName":"BF","CoinName":"BTGBTC"},{"id":58,"ExchangeName":"BF","CoinName":"DATUSD"},{"id":59,"ExchangeName":"BF","CoinName":"DATBTC"},{"id":60,"ExchangeName":"BF","CoinName":"DATETH"}]
